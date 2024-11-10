@@ -1,6 +1,6 @@
 # Vioneta Bubble Card
 
-![readme-images-bubble-card](https://github.com/Vioneta/vioneta-bubble-card/assets/36499953/c763bdad-ce71-46b0-aa9e-4ff0017072fe)
+![readme-images-bubble-card](https://github.com/Clooos/Bubble-Card/assets/36499953/c763bdad-ce71-46b0-aa9e-4ff0017072fe)
 
 Bubble Card is a minimalist and customizable card collection for Vioneta with a nice pop-up touch.
 
@@ -95,7 +95,7 @@ All options can be configured in the Vioneta editor. But you can find more detai
 
 ## Pop-up
 
-![readme-pop-up](https://github.com/Vioneta/vioneta-bubble-card/assets/36499953/086bdcc4-62aa-445b-b265-b57c4e38b8a0)
+![readme-pop-up](https://github.com/Clooos/Bubble-Card/assets/36499953/086bdcc4-62aa-445b-b265-b57c4e38b8a0)
 
 This card allows you to convert any vertical stack into a pop-up. Each pop-up is **hidden by default** and can be opened by targeting its link (e.g. `'#pop-up-name'`), with any card that supports the `navigate` [action](#tap-double-tap-and-hold-actions), or with the [horizontal buttons stack](#horizontal-buttons-stack) that is included.
 
@@ -279,7 +279,7 @@ cards:
 
 ## Horizontal buttons stack
 
-![readme-horizontal-buttons-stack](https://github.com/Vioneta/vioneta-bubble-card/assets/36499953/8fe89ade-c77a-469b-891f-577e0bb2f46b)
+![readme-horizontal-buttons-stack](https://github.com/Clooos/Bubble-Card/assets/36499953/8fe89ade-c77a-469b-891f-577e0bb2f46b)
 
 This card is a good companion to the pop-up card, allowing you to open the corresponding pop-ups. It also allows you to open any page of your dashboard. In addition, you can add your motion/occupancy sensors so that the order of the buttons adapts according to the room you just entered. This card is scrollable, remains visible, and acts as a footer.
 
@@ -351,7 +351,7 @@ auto_order: true
 
 ## Button
 
-![readme-button-without-sub-buttons](https://github.com/Vioneta/vioneta-bubble-card/assets/36499953/790cbe3c-bdcc-4242-81ac-48e6ca2f1d46)
+![readme-button-without-sub-buttons](https://github.com/Clooos/Bubble-Card/assets/36499953/790cbe3c-bdcc-4242-81ac-48e6ca2f1d46)
 
 This card allows you to control your entities and can be customized in many ways. To access color / control of an entity, simply tap on the icon.
 
@@ -462,7 +462,7 @@ sub_button:
 
 ## Media player
 
-![readme-media-player](https://github.com/Vioneta/vioneta-bubble-card/assets/36499953/c7ee0752-00e3-4edf-8e1c-983fbd29b5f3)
+![readme-media-player](https://github.com/Clooos/Bubble-Card/assets/36499953/c7ee0752-00e3-4edf-8e1c-983fbd29b5f3)
 
 This card allows you to control a media player. You can tap on the icon to get more control.
 
@@ -563,7 +563,7 @@ sub_button:
 
 ## Cover
 
-![readme-cover](https://github.com/Vioneta/vioneta-bubble-card/assets/36499953/27d1c329-76ab-480b-b424-c79c9e68c788)
+![readme-cover](https://github.com/Clooos/Bubble-Card/assets/36499953/27d1c329-76ab-480b-b424-c79c9e68c788)
 
 This card allows you to control your covers.
 
@@ -692,7 +692,7 @@ show_state: true
 
 ## Separator
 
-![readme-separator](https://github.com/Vioneta/vioneta-bubble-card/assets/36499953/7e416a34-b95e-4a03-a200-4b3aa04f560d)
+![readme-separator](https://github.com/Clooos/Bubble-Card/assets/36499953/7e416a34-b95e-4a03-a200-4b3aa04f560d)
 
 This card is a simple separator for dividing your pop-up into categories / sections. e.g. Lights, Devices, Covers, Settings, Automations...
 
@@ -738,7 +738,7 @@ icon: mdi:window-shutter
 
 ## Empty column
 
-![readme-empty-column](https://github.com/Vioneta/vioneta-bubble-card/assets/36499953/a97fa8df-8360-4613-8bb7-e8a269cb1913)
+![readme-empty-column](https://github.com/Clooos/Bubble-Card/assets/36499953/a97fa8df-8360-4613-8bb7-e8a269cb1913)
 
 This card is here to fill an empty column. This is useful if you have a `horizontal-stack` in your pop-up with only one card. Take a look at the bottom right corner of this screenshot to (not) see it.
 
@@ -774,7 +774,7 @@ cards:
 
 ## Sub-buttons
 
-![readme-button](https://github.com/Vioneta/vioneta-bubble-card/assets/36499953/c7bfda91-943e-42f3-a963-4847e57c6b97)
+![readme-button](https://github.com/Clooos/Bubble-Card/assets/36499953/c7bfda91-943e-42f3-a963-4847e57c6b97)
 
 In every card that supports that option, you can add sub-buttons to customize your cards even more. You can, for exemple, create a button that can control a vacuum, a weather card, or almost anything that you can come up with. These sub-buttons support the tap actions and most of the button options.
 
@@ -901,7 +901,7 @@ sub_button:
 
 <br>
 
-<img width="591" alt="image" src="https://github.com/Vioneta/vioneta-bubble-card/assets/36499953/360312de-db08-47bf-9b46-92afeb435edd">
+<img width="591" alt="image" src="https://github.com/Clooos/Bubble-Card/assets/36499953/360312de-db08-47bf-9b46-92afeb435edd">
 
 > Bad luck for me it's cloudy all the time but all the icons are changing based on the weather.
 
@@ -951,7 +951,7 @@ styles: >-
 
 ## Card layouts
 
-![My-Bubble-Card-dashboard](https://github.com/Vioneta/vioneta-bubble-card/assets/36499953/0c049498-969b-4939-959e-fc49fb08d0a1)
+![My-Bubble-Card-dashboard](https://github.com/Clooos/Bubble-Card/assets/36499953/0c049498-969b-4939-959e-fc49fb08d0a1)
 
 Bubble Card fully supports the Vioneta section view, you can change the card layout to make the card bigger and also change the number of columns or rows the card should occupy in your section view (only on the cards that support that option). These layouts are also supported in all other view types.
 
@@ -975,7 +975,7 @@ Bubble Card fully supports the Vioneta section view, you can change the card lay
 
 <br>
 
-<img width="547" alt="image" src="https://github.com/Vioneta/vioneta-bubble-card/assets/36499953/faa643d5-5d1e-488d-b4a5-6bedd043c747">
+<img width="547" alt="image" src="https://github.com/Clooos/Bubble-Card/assets/36499953/faa643d5-5d1e-488d-b4a5-6bedd043c747">
 
 ```yaml
 type: custom:bubble-card
@@ -1281,7 +1281,7 @@ Just upload this picture in a “pictures” folder (or the name you want) in th
 
 <br>
 
-<img width="556" alt="image" src="https://github.com/Vioneta/vioneta-bubble-card/assets/36499953/b9be2bcf-93fc-4b06-8eae-ecac97dfb5e2">
+<img width="556" alt="image" src="https://github.com/Clooos/Bubble-Card/assets/36499953/b9be2bcf-93fc-4b06-8eae-ecac97dfb5e2">
 
 > I really love this one, I use it as a header on my dashboard.
 
@@ -1347,7 +1347,7 @@ styles: |
   }
 ```
 
-![Sub-buttons-everywhere](https://github.com/Vioneta/vioneta-bubble-card/assets/36499953/3bf04969-e00d-4755-89df-481e8f7d73b2)
+![Sub-buttons-everywhere](https://github.com/Clooos/Bubble-Card/assets/36499953/3bf04969-e00d-4755-89df-481e8f7d73b2)
 
 </details>
 
@@ -1593,7 +1593,7 @@ You can use `hass.formatEntityState(state)` to transtale a state and `hass.forma
 
 This one is changing the name and the icon based on the weather, "Nuageux" means "Cloudy" in French.
 
-![image](https://github.com/Vioneta/vioneta-bubble-card/assets/36499953/35ac9d0f-c3b8-4c09-9c15-fe6954011d55)
+![image](https://github.com/Clooos/Bubble-Card/assets/36499953/35ac9d0f-c3b8-4c09-9c15-fe6954011d55)
 
 ```yaml
 type: custom:bubble-card
