@@ -1,0 +1,1 @@
+export let version = 'v2.2.4';
